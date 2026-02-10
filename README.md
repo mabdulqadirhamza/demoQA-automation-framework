@@ -124,7 +124,7 @@ Every push to `main` triggers:
 4. **Generate Report** - Creates Allure report with history
 5. **Deploy to GitHub Pages** - Publishes report automatically
 
-**View Live Reports**: [https://mabdulqadirhamza.github.io/demoQA-automation-framework/]
+**View Live Reports**: [https://mabdulqadirhamza.github.io/playwright-automation-framework/8/index.html]
 ## 🎨 Features
 
 - **Page Object Model**: Clean separation of test logic and page interactions
