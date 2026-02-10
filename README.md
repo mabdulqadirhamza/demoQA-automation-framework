@@ -1,8 +1,8 @@
 # 🎯 DemoQA Automation Framework with Playwright
 
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/unified_automation.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
+[![UI Automation Suite (UI Only)](https://github.com/mabdulqadirhamza/demoQA-automation-framework/actions/workflows/ui-automation.yml/badge.svg)](https://github.com/mabdulqadirhamza/demoQA-automation-framework/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-1.57.0-45ba4b?logo=playwright)](https://playwright.dev/)
-[![Allure Report](https://mabdulqadirhamza.github.io/demoQA-automation-framework/)
+[![Allure Report](https://img.shields.io/badge/Allure_Report-Click_Here-6b5b95)](https://mabdulqadirhamza.github.io/demoQA-automation-framework/)
 
 > A comprehensive end-to-end test automation framework built with Playwright and the Page Object Model pattern, featuring automated CI/CD pipelines and beautiful Allure reports.
 
